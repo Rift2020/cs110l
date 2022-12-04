@@ -1,0 +1,6 @@
+thinked part1,but i'm too lazy to write answer
+
+part2 rdiff finished
+
+thinked optional rwc,but there doesn't seem to be a elegant solution
+have no intention to do it
